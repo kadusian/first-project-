@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    line-height: 18px;
+}
+
+.title {
+    font-size: 70px;
+    font-weight: 400;
+    line-height: 78px;
+    margin: 0;
+    text-align: center;
+    color: #515076;
+}
+
+.products-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.mein-text   {
+    color: #515076; 
+}   
+
+h2 {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 27px;
+    color: #515076;
+    margin: 5px;
+}   
+
+.koja {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 24px;
+    color: #A5A3B9;
+    margin : 30px;
+}
+
+.cena {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    margin: 25px;
+}
+
+.summa {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.parametri {
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 18px;
+    color: #515076;
+    margin: 5px;
+}
