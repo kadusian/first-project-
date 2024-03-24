@@ -47,10 +47,8 @@ body {
     text-transform: uppercase;
     margin-top: 30px;
     display: inline-block;
-    margin-bottom: 0px;
 }
 .products-name {
-    font-weight: 700;
     font-size: 20px;
     line-height: 27px;
     margin: 5px auto;
