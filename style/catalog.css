@@ -1,0 +1,7 @@
+.catalog__container {
+    background-image: url(../images/bg_1.png);
+    background-repeat: no-repeat;
+    background-position: left top;
+    padding-top: 1px;
+    background-size: 790px;
+}
